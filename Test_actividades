@@ -1,0 +1,16 @@
+from Funciones import duplicados
+import pytest
+
+def test_duplicados():
+    assert duplicados([1,2,3,1]) == True
+    assert duplicados([1,2,3,4]) == False
+
+#TODO: PENDIENTES
+@pytest.mark.parametrize("nums,res",
+                                [
+                                (1,2,3,1,True),
+                                (1, 2, 3, 4,False)
+                                ])
+
+def test_duplicados_parametrize(nums,res):
+    assert duplicados(nums) == res
