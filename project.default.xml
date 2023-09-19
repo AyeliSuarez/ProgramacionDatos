@@ -1,0 +1,15 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (untitled)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+      <component name="PyPackaging">
+        <option name="earlyReleasesAsUpgrades" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

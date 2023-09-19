@@ -1,0 +1,8 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="1" />
+    <option name="PRINT_AS_GRAPHICS" value="false" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="TOP_MARGIN" value="1.0" />
+  </component>
+</application>
